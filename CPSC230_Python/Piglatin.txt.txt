@@ -1,0 +1,29 @@
+def wordToPig(word):
+    y = word[0]
+    vowels = ['a','e','i','o','u']
+    if y.lower() in vowels:
+        word = word + 'yay'
+    else:
+        word = word.strip(word[0])
+        word = word + y + 'ay'
+    return(word)
+
+print(wordToPig(str(input('Give me a word'))))
+
+f = open('Piglatin.txt','w')
+first = input('Give me your first name')
+last = input('Give me your last name')
+f.write(first)
+f.write(' ' + str(last))
+f.close()
+
+a = open('pigName.txt','r')
+b = open('pigOutPut.txt','w')
+for x in a:
+    word = x.split(" ")
+for items in word:
+    b.write(wordToPig(items))
+    b.write("\n")
+
+a.close()
+b.close()

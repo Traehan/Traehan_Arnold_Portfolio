@@ -1,0 +1,3 @@
+interface Streamable {
+    void play();
+}
