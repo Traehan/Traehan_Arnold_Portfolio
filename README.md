@@ -7,7 +7,7 @@ Each folder represents a class or focus area, and includes code, assignments, an
 
 ---
 
-## 🧩 Contents
+## Contents
 
 | Folder | Description |
 |--------|--------------|
@@ -24,7 +24,7 @@ Each folder represents a class or focus area, and includes code, assignments, an
 
 ---
 
-## 🛠️ Tools & Languages
+## Tools & Languages
 - **Languages:** Python, Java, C++, C#, Assembly, SQL  
 - **Frameworks:** Unity, Android Studio, Logisim, LaTeX  
 - **Version Control:** Git, GitHub  
@@ -32,9 +32,11 @@ Each folder represents a class or focus area, and includes code, assignments, an
 
 ---
 
-## 🧠 Highlights 
+## Highlights 
 - **Music App (Java):** Built a full playlist and podcast system with account management.  
 - **Operating Systems Labs:** Multi-threaded read/write logging and synchronization analysis.
+- **Chess Roguelike (Unity):** Designed a turn-based tactical roguelike using C#, ScriptableObjects, and AI behaviors.
+- **Trivia Game (Unity):** Implemented Command pattern architecture and achievement tracking.
 
 ---
 
