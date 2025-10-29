@@ -13,7 +13,6 @@ Each folder represents a class or focus area, and includes code, assignments, an
 |--------|--------------|
 | **CPSC230_Python** | Core Python projects — algorithms, data structures, and scripting fundamentals. |
 | **CPSC231_Java** | Object-oriented programming and software design in Java. |
-| **CPSC2982025Cplusplus** | Early work in C++, covering syntax, loops, and object design. |
 | **CPSC350_Cplusplus** | Advanced C++ programming — templates, data structures, and file I/O. |
 | **CPSC354_Programming_Languages** | Functional programming (Lambda Calculus, Scheme, Assembly). |
 | **CPSC356_AndroidAppDev** | Android mobile app projects using Java/Kotlin and Android Studio. |
