@@ -7,13 +7,12 @@ Each folder represents a class or focus area, and includes code, assignments, an
 
 ---
 
-## 🧩 Contents
+## Contents
 
 | Folder | Description |
 |--------|--------------|
 | **CPSC230_Python** | Core Python projects — algorithms, data structures, and scripting fundamentals. |
 | **CPSC231_Java** | Object-oriented programming and software design in Java. |
-| **CPSC2982025Cplusplus** | Early work in C++, covering syntax, loops, and object design. |
 | **CPSC350_Cplusplus** | Advanced C++ programming — templates, data structures, and file I/O. |
 | **CPSC354_Programming_Languages** | Functional programming (Lambda Calculus, Scheme, Assembly). |
 | **CPSC356_AndroidAppDev** | Android mobile app projects using Java/Kotlin and Android Studio. |
@@ -25,7 +24,7 @@ Each folder represents a class or focus area, and includes code, assignments, an
 
 ---
 
-## 🛠️ Tools & Languages
+## Tools & Languages
 - **Languages:** Python, Java, C++, C#, Assembly, SQL  
 - **Frameworks:** Unity, Android Studio, Logisim, LaTeX  
 - **Version Control:** Git, GitHub  
@@ -33,10 +32,12 @@ Each folder represents a class or focus area, and includes code, assignments, an
 
 ---
 
-## 🧠 Highlights 
+## Highlights 
 - **Music App (Java):** Built a full playlist and podcast system with account management.  
 - **Operating Systems Labs:** Multi-threaded read/write logging and synchronization analysis.
+- **Chess Roguelike (Unity):** Designed a turn-based tactical roguelike using C#, ScriptableObjects, and AI behaviors.
 - **Endless Board Stats Dashboard (Python/React):** Built a companion analytics app for Endless Board — a Python/SQLite API and a React + TypeScript dashboard tracking real playtest win rates, leaderboards, and per-ascension stats.
+- **Trivia Game (Unity):** Implemented Command pattern architecture and achievement tracking.
 
 ---
 
