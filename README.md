@@ -21,6 +21,7 @@ Each folder represents a class or focus area, and includes code, assignments, an
 | **LogisimWork** | Digital logic circuits and CPU architecture using Logisim Evolution. |
 | **OperatingSystems** | Process synchronization, threading, and resource management labs. |
 | **GitHub** | Miscellaneous experiments, prototypes, and notes. |
+| **[endless-board-stats](https://github.com/Traehan/endless-board-stats)** | Companion stats dashboard for Endless Board — Python/SQLite backend, React + TypeScript frontend. |
 
 ---
 
@@ -35,6 +36,7 @@ Each folder represents a class or focus area, and includes code, assignments, an
 ## 🧠 Highlights 
 - **Music App (Java):** Built a full playlist and podcast system with account management.  
 - **Operating Systems Labs:** Multi-threaded read/write logging and synchronization analysis.
+- **Endless Board Stats Dashboard (Python/React):** Built a companion analytics app for Endless Board — a Python/SQLite API and a React + TypeScript dashboard tracking real playtest win rates, leaderboards, and per-ascension stats.
 
 ---
 
