@@ -1,46 +1,35 @@
-# Traehan Arnold — Computer Science Portfolio
+# Traehan Arnold: Computer Science Portfolio
 
-Welcome to my portfolio!  
-This repository showcases my coursework and personal projects developed during my Computer Science degree at Chapman University, with a minor in Game Development.
+Coursework and projects from my B.S. in Computer Science at Chapman University (May 2026, minor in Game Development).
 
-Each folder represents a class or focus area, and includes code, assignments, and examples demonstrating my growth as a developer.
+**Website:** [traehan.github.io/TraehanArnold_Website](https://traehan.github.io/TraehanArnold_Website) | **LinkedIn:** [in/traehan-arnold](https://www.linkedin.com/in/traehan-arnold/) | **Email:** traej7arnold@gmail.com
 
----
+## Start here
 
-## Contents
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| [Endless Board](https://github.com/Traehan/KapstoneProject-ChessRoguelike) | Capstone chess roguelike. I led the team and built the game loop, card system, battle logic, and enemy AI. IEEE Undergraduate Research Finalist. | Unity, C# |
+| [Endless Board Stats Dashboard](https://github.com/Traehan/endless-board-stats) | Solo full-stack app: SQL schema, REST API, and a dashboard for win rates and leaderboards. | Python, SQLite, React, TypeScript |
+| [Music streaming app](CPSC231_Java/FinalMP4) | Object-oriented design with abstract classes, interfaces, and generics: playlists, albums, podcasts, accounts. | Java |
+| [Operating systems labs](OperatingSystems) | Reader/writer monitor with pthreads, thread-safe logging, producer/consumer, a simple shell. | C, C++ |
+| [Data structures](CPSC350_Cplusplus) | Doubly linked list, stack, queue, and binary search tree, plus a queue-based service center simulation. | C++ |
 
-| Folder | Description |
-|--------|--------------|
-| **CPSC230_Python** | Core Python projects — algorithms, data structures, and scripting fundamentals. |
-| **CPSC231_Java** | Object-oriented programming and software design in Java. |
-| **CPSC350_Cplusplus** | Advanced C++ programming — templates, data structures, and file I/O. |
-| **CPSC354_Programming_Languages** | Functional programming (Lambda Calculus, Scheme, Assembly). |
-| **CPSC356_AndroidAppDev** | Android mobile app projects using Java/Kotlin and Android Studio. |
-| **CPSC406_Algo_Analysis** | Algorithm design and analysis — sorting, recursion, complexity. |
-| **LogisimWork** | Digital logic circuits and CPU architecture using Logisim Evolution. |
-| **OperatingSystems** | Process synchronization, threading, and resource management labs. |
-| **GitHub** | Miscellaneous experiments, prototypes, and notes. |
-| **[endless-board-stats](https://github.com/Traehan/endless-board-stats)** | Companion stats dashboard for Endless Board — Python/SQLite backend, React + TypeScript frontend. |
+## Everything else, by course
 
----
+| Folder | Course | Contents |
+| --- | --- | --- |
+| [CPSC230_Python](CPSC230_Python) | Intro to programming | Python fundamentals: loops, functions, strings, lists, dictionaries, file I/O, small games |
+| [CPSC231_Java](CPSC231_Java) | Object-oriented programming | Java projects: music app, Spoons card game, pizza ordering app |
+| [CPSC350_Cplusplus](CPSC350_Cplusplus) | Data structures and algorithms | C++ data structures and simulations |
+| [CPSC354_Programming_Languages](CPSC354_Programming_Languages) | Programming languages | Lambda calculus, Scheme, assembly |
+| [CPSC356_AndroidAppDev](CPSC356_AndroidAppDev) | Mobile app development | Android apps in Kotlin: Jetpack Navigation, MVVM, Compose |
+| [CPSC406_Algo_Analysis](CPSC406_Algo_Analysis) | Algorithm analysis | Algorithm design, complexity, LaTeX report |
+| [OperatingSystems](OperatingSystems) | Operating systems | Concurrency, scheduling, and memory labs in C and C++ |
+| [GitHub](GitHub) | Misc | Unity trivia game using the Command pattern |
 
-## Tools & Languages
-- **Languages:** Python, Java, C++, C#, Assembly, SQL  
-- **Frameworks:** Unity, Android Studio, Logisim, LaTeX  
-- **Version Control:** Git, GitHub  
-- **Other Skills:** Algorithm optimization, design patterns, object-oriented programming, system-level design
+## Skills
 
----
-
-## Highlights 
-- **Music App (Java):** Built a full playlist and podcast system with account management.  
-- **Operating Systems Labs:** Multi-threaded read/write logging and synchronization analysis.
-- **Chess Roguelike (Unity):** Designed a turn-based tactical roguelike using C#, ScriptableObjects, and AI behaviors.
-- **Endless Board Stats Dashboard (Python/React):** Built a companion analytics app for Endless Board — a Python/SQLite API and a React + TypeScript dashboard tracking real playtest win rates, leaderboards, and per-ascension stats.
-- **Trivia Game (Unity):** Implemented Command pattern architecture and achievement tracking.
-
----
-
-### 🔗 Contact
-**LinkedIn:** [linkedin.com/in/traehanarnold](https://linkedin.com/in/traehanarnold)  
-**Email:** Traej7arnold@gmail.com  
+- **Languages:** Python, SQL, C#, C++, JavaScript, TypeScript, Java, Kotlin, Lua
+- **Backend and data:** REST API design, relational database design, query optimization
+- **Frontend and mobile:** React, HTML and CSS, Android with Jetpack Compose
+- **Tools:** Git, Linux, Unity, Unreal Engine
